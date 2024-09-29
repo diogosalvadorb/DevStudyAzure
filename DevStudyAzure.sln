@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35312.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DevStudyAzure.API", "DevStudyAzure\DevStudyAzure.API\DevStudyAzure.API.csproj", "{7FE89D55-C26F-4559-8656-938CD8AACB4A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7FE89D55-C26F-4559-8656-938CD8AACB4A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7FE89D55-C26F-4559-8656-938CD8AACB4A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7FE89D55-C26F-4559-8656-938CD8AACB4A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7FE89D55-C26F-4559-8656-938CD8AACB4A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {626216F4-3D91-44D7-BEC0-94EA4A13CE56}
+	EndGlobalSection
+EndGlobal
